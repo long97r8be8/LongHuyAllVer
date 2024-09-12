@@ -5724,7 +5724,7 @@ end
 --------------------------------------------------------------------------------------------------------------------------------------------
 print("Script Loading Completed !")
 --------------------------------------------------------------------------------------------------------------------------------------------
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MinhNghia2k11/Source/main/FastAttacknebudi"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DichVuSpace/FunctionScriptTemp/main/FastAttackBananaOld"))()
 --------------------------------------------------------------------------------------------------------------------------------------------
 -- Addons:
 -- SaveManager (Allows you to have a configuration system)
