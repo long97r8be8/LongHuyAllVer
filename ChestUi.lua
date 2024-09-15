@@ -24,4 +24,4 @@ Tabs.Chest:AddButton({
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/long97r8be8/LongHuyAllVer/main/LHChestObf.lua"))()
     end
-})
+end
